@@ -16,7 +16,7 @@ The goal is to simulate a real-world analytics use case where store managers can
 ---
 
 ## 📈 Dashboard Preview
-![Dashboard](images/dashboard.png)
+![Dashboard](https://github.com/arpith04/Woolworths-Store-Analytics/blob/main/images/Woolworths%20Dashboard.jpg)
 
 ---
 
